@@ -8,4 +8,4 @@
 
 [repo ](https://github.com/Com1Software/RC-Links/test2)
 
-[page ](https://Com1Software.github.io/RC-Links/test2)
+[page ](https://Com1Software.github.io/RC-Links)
