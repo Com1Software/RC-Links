@@ -6,6 +6,6 @@
 
 [test repo](https://github.com/learning-zone/website-templates/tree/master/3-col-portfolio)
 
-[repo ](https://github.com/Com1Software/RC-Links)
+[repo ](https://github.com/Com1Software/RC-Links/test2)
 
-[repo ](https://Com1Software.github.io/RC-Links/test2)
+[page ](https://Com1Software.github.io/RC-Links/test2)
