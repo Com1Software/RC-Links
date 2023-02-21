@@ -2,7 +2,7 @@
 
 [RC-Links Website ](https://Com1Software.github.io/RC-Links) 
 
-[Local](file:///home/dave/RC-Links/index.html)
+[ Local ](file:///home/dave/RC-Links/index.html)
 
 [RC Links Wiki ](https://github.com/Com1Software/RC-Links/wiki)
 
