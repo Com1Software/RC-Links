@@ -1,11 +1,9 @@
 # RC-Links
 
+[RC-Links Website ](https://Com1Software.github.io/RC-Links)
+
 [RC Links Wiki ](https://github.com/Com1Software/RC-Links/wiki)
 
-[test page](https://learning-zone.github.io/website-templates/3-col-portfolio)
+[Website Templates](https://github.com/learning-zone/website-templates)
 
-[test repo](https://github.com/learning-zone/website-templates/tree/master/3-col-portfolio)
-
-[repo ](https://github.com/Com1Software/RC-Links/test2)
-
-[page ](https://Com1Software.github.io/RC-Links)
+[1st Example](https://learning-zone.github.io/website-templates/3-col-portfolio)
