@@ -6,4 +6,4 @@
 
 [Website Templates](https://github.com/learning-zone/website-templates)
 
-[1st Example](https://learning-zone.github.io/website-templates/3-col-portfolio)
+[W3 Examples](https://www.w3schools.com/html/html_examples.asp)
